@@ -36,5 +36,29 @@
                 <button type="button" class="btn btn-link">Link</button>
             </div>
 
+            <div class="container">
+            <div class="jumbotron">
+                <h1>Bootstrap Tutorial</h1>
+                <p>Bootstrap is the most popular HTML, CSS...</p>
+            </div>
+
+            <div>
+                <div class="jumbotron jumbotron-fluid">
+                <div class="container">
+                    <h1>Bootstrap Tutorial</h1>
+                    <p>Bootstrap is the most popular HTML, CSS...</p>
+                
+            </div>
+
+            <div class="mt-4 p-5 bg-primary text-white rounded">
+                <h1>Jumbotron Example</h1>
+                <p>Lorem ipsum...</p>
+            </div>
+
+            
+
+
+
+
         </body>
 </html>
